@@ -77,7 +77,7 @@ BRUSHED.slider = function(){
 		thumb_links				:	0,			// Individual thumb links for each slide
 		thumbnail_navigation    :   0,			// Thumbnail navigation
 		slides 					:  	[			// Slideshow Images
-											{image : '_include/img/slider-images/image01.jpg', title : '<div class="slide-content">Al Sahoo</div>', thumb : '', url : ''},
+											{image : '_include/img/slider-images/img1.jpg', title : '<div class="slide-content">Al Sahoo</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/img3.jpg', title : '<div class="slide-content">Mechanical</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/img2.jpg', title : '<div class="slide-content">Sanitary Wares</div>', thumb : '', url : ''},
 											{image : '_include/img/slider-images/image04.jpg', title : '<div class="slide-content">Others</div>', thumb : '', url : ''}  
